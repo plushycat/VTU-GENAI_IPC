@@ -64,7 +64,7 @@ def ipc_chatbot(query, index, chunks):
     return response
 
 # Streamlit UI
-st.image("PragyanAI_Transperent.png")
+st.image("image.png")
 st.title("IPC Legal Chatbot")
 
 uploaded_file = st.file_uploader("Upload IPC PDF", type=["pdf"])

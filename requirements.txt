@@ -5,3 +5,4 @@ groq
 PyMuPDF 
 faiss-cpu  
 requests
+transformers
